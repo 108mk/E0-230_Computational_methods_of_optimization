@@ -18,9 +18,26 @@ E0: 230:Computational Method of Optimization is a course on mathematical optimiz
 > 
 > $\bullet$ Analysis of special matrices: Positive definite (PD), negative definite(ND) and positive semi-definite (PSD) matrices
 
+## Standard Optimization Problem Template
+> Objective function $f:\mathbb{R}^d \to \mathbb{R}$
+>
+> Constrain: $S\subset \mathbb{R}^d$
+>
+> Find $x^{\ast}=argmin_{x\subset S}\ f(x)$
+> and $f(x^{\ast})$
 
+### Standard iterative algorithm 
+> pick $x\in S$
+>
+> $\textbf{while}\ x$  is not optimal solution $\textbf{do}:$
+> 
+> Pick another $x\in S$ such that $f(x)$ decreases;
+> 
+> $\textbf{end}$
+>
+> return $(x,\ f(x))$
 
-## Part-I: Convex Function and its Optimization 
+## Part-II: Convex Function and its Optimization 
 
 ⭐ $\bullet$ Convex function and existence of global minima
 > 
