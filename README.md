@@ -43,7 +43,16 @@ E0: 230:Computational Method of Optimization is a course on mathematical optimiz
 ## Part-II: Convex Function and its Optimization 
 
 ⭐ $\bullet$ Convex function and existence of global minima
-> Descent based minimization:
+
+> Quadratic form and closed form solution:
+>
+> $f(x)=x^TQx-d^Tx \implies \nabla f(x) = Qx-d\ and\ H(f(x))=Q$
+>
+> $\implies x^{\ast} = Q^{-1}d$
+>
+> Computational complexity: $\mathcal{O}{n^3}$ via Gauss Elimination [Hnece, practically useless for large matrices]
+
+> Descent-based algorithm for approximately searching the minima:
 > 
 > > Exact line search: Kantarovich inequality
 > > 
