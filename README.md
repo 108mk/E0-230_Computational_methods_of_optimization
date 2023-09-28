@@ -50,12 +50,14 @@ E0: 230:Computational Method of Optimization is a course on mathematical optimiz
 >
 > $\implies x^{\ast} = Q^{-1}d$
 >
-> Computational complexity: $\mathcal{O}{n^3}$ via Gauss Elimination [Hnece, practically useless for large matrices]
+> Computational complexity: $\mathcal{O}(n^3)$ via Gauss Elimination [Hence, practically useless for large matrices]
 
 > Descent-based algorithm for approximately searching the minima:
 > 
 > > Exact line search: Kantarovich inequality
 > > 
+> > Bounded Hessian Quadratic functions: $AI-H_f(x)\ and\ aI-H_f(x)$ are hessian $\forall x$
+
 > > Ineaxct line search: Goldstein and Wolfe condition
 
 ## Part-III: Generic algorithms for optimizations
