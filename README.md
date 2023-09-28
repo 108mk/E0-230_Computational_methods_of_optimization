@@ -50,6 +50,6 @@ E0: 230:Computational Method of Optimization is a course on mathematical optimiz
 > > Ineaxct line search: Goldstein and Wolfe condition
 
 ## Part-III: Generic algorithms for optimizations
-> Coordinate descent algorithm
+⭐ Coordinate descent algorithm
 >
-> Conjugate descent algorithm:  
+⭐ Conjugate descent algorithm:  
