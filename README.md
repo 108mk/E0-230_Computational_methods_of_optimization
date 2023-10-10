@@ -60,7 +60,37 @@ E0: 230:Computational Method of Optimization is a course on mathematical optimiz
 
 > > Ineaxct line search: Goldstein and Wolfe condition
 
-## Part-III: Generic algorithms for optimizations
+## Part-III: First-order methods for optimizations
 ⭐ Coordinate descent algorithm
+> Criteria for convergence of coordinate descent algorithms
+
+⭐ Conjugate descent algorithm:
+
+> Algorithm for Q-conjugate
+>> Determining Q-conjugate vectors
+>>
+>> Expanding subspace theorem
+>> 
+> Faster convergence for the structured eigenvalue of the Q matrix
+>>
+>> Case of distinct eigenvalue of Q.
+>>
+>> Polynomial method for conjugate descent
+>>
+>> The case of Clustered eigenvalue
+>>
+## Part-IV: Second-order methods for optimizations
+⭐ Newton's Methods
+>> Region of positive definite Hessian
+>>
+>> Newton's region and convergence criteria
 >
-⭐ Conjugate descent algorithm:  
+⭐ Quasi-Newton Methods
+>> Rank-1 update technique
+>>
+>> Rank-2 update technique
+>>
+>> BFGS technique
+>>
+>> Broyden Family 
+
