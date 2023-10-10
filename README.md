@@ -81,16 +81,16 @@ E0: 230:Computational Method of Optimization is a course on mathematical optimiz
 >>
 ## Part-IV: Second-order methods for optimizations
 ⭐ Newton's Methods
->> Region of positive definite Hessian
->>
->> Newton's region and convergence criteria
+> Region of positive definite Hessian
+>
+> Newton's region and convergence criteria
 >
 ⭐ Quasi-Newton Methods
->> Rank-1 update technique
->>
->> Rank-2 update technique
->>
->> BFGS technique
->>
->> Broyden Family 
+> Rank-1 update technique
+>
+> Rank-2 update technique
+>
+> BFGS technique
+>
+> Broyden Family 
 
