@@ -92,5 +92,18 @@ Ineaxct line search: Goldstein and Wolfe condition
 >
 > BFGS technique
 >
-> Broyden Family 
+> Broyden Family
+
+## Part-V: Constrained Optimization
+$x^{*}=argmin_{x\in C}(f(x))\ where\ C \in \mathbb{R}^d$ over constrained set C.
+
+> Projection into a convex set
+ 
+> Separating Hyper space theorem
+
+> Optimization under Inequality constraints:
+> 
+>> Farkas Lemma
+>>
+>> KKT condition as a necessary condition for minima  
 
