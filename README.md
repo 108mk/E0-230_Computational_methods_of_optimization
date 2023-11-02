@@ -105,5 +105,9 @@ $x^{*}=argmin_{x\in C}(f(x))\ where\ C \in \mathbb{R}^d$ over constrained set C.
 > 
 >> Farkas Lemma
 >>
->> KKT condition as a necessary condition for minima  
+>> KKT condition as a necessary condition for minima
+
+⭐ Projected Gradient Descent
+
+⭐ Active set method
 
