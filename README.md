@@ -1,5 +1,5 @@
 # E0-230_Computational_methods_of_optimization
-This is my personal repository for E0: 230:Computational Method of Optimization by Prof. Chianjib Bhattacharya at IISc Bengaluru. It is a course on mathematical optimization of the computer science department at IISc, Bengaluru. You can find my codes and assignment solution along with class notes. Feel free to fork and use. Don't hesitate to report mistakes if you find them in the documents. 
+This is my personal repository for E0: 230:Computational Method of Optimization by Prof. Chianjib Bhattacharya at IISc Bengaluru. It is a course on mathematical optimization offered by the computer science department. You can find my codes and assignment solution along with class notes. Feel free to fork and use. Don't hesitate to report mistakes if you find them in the documents.
 
 :accessibility: Highlights of crucial optimization algorithms and tactics along with their real-world applications:
 
