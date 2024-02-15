@@ -3,6 +3,13 @@ This is my personal repository for E0: 230:Computational Method of Optimization 
 
 :accessibility: Highlights of crucial optimization algorithms and tactics along with their real-world applications:
 
+## Books: 
+> R. Fletcher:   Practical Methods of Optimization (Volume 1 &2)
+
+> David G. Luenberger, Yinyu Ye:   Linear and Nonlinear Programming
+
+> Yu. Nesterov:   Introductory Lectures on Convex Programming
+
 ## Standard Optimization Problem Template
 Objective function $f:\mathbb{R}^d \to \mathbb{R}$
 
@@ -110,4 +117,7 @@ $x^{*}=argmin_{x\in C}(f(x))\ where\ C \in \mathbb{R}^d$ over constrained set C.
 ⭐ Projected Gradient Descent
 
 ⭐ Active set method
+
+## course website: 
+https://cmo2019.github.io/cmo2019/
 
