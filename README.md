@@ -1,7 +1,14 @@
 # E0-230_Computational_methods_of_optimization
-This is my personal repository for E0: 230:Computational Method of Optimization. It is a course on mathematical optimization of the computer science department at IISc, Bengaluru. You can find my codes and assignment solution along with class notes. Feel free to fork and use. Don't hesitate to report mistakes if you find them in the documents. 
+This is my personal repository for E0: 230:Computational Method of Optimization by Prof. Chianjib Bhattacharya at IISc Bengaluru. It is a course on mathematical optimization offered by the computer science department. You can find my codes and assignment solution along with class notes. Feel free to fork and use. Don't hesitate to report mistakes if you find them in the documents.
 
 :accessibility: Highlights of crucial optimization algorithms and tactics along with their real-world applications:
+
+## Books: 
+> R. Fletcher:   Practical Methods of Optimization (Volume 1 &2)
+
+> David G. Luenberger, Yinyu Ye:   Linear and Nonlinear Programming
+
+> Yu. Nesterov:   Introductory Lectures on Convex Programming
 
 ## Standard Optimization Problem Template
 Objective function $f:\mathbb{R}^d \to \mathbb{R}$
@@ -105,5 +112,12 @@ $x^{*}=argmin_{x\in C}(f(x))\ where\ C \in \mathbb{R}^d$ over constrained set C.
 > 
 >> Farkas Lemma
 >>
->> KKT condition as a necessary condition for minima  
+>> KKT condition as a necessary condition for minima
+
+⭐ Projected Gradient Descent
+
+⭐ Active set method
+
+## course website: 
+https://cmo2019.github.io/cmo2019/
 
