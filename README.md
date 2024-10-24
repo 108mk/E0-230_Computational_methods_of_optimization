@@ -118,6 +118,10 @@ $x^{*}=argmin_{x\in C}(f(x))\ where\ C \in \mathbb{R}^d$ over constrained set C.
 
 ⭐ Active set method
 
-## course website: 
+## Video Lecture link (2021 offering): 
+
+https://drive.google.com/drive/folders/1tngztngZpOC1VFYTLgwvLnJRypRuvHXn?usp=sharing
+
+## Website (2019 offereing):
 https://cmo2019.github.io/cmo2019/
 
